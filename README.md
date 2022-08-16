@@ -15,15 +15,15 @@ open chrome/brave (or whatever you use) click on the three dots then go to exten
 <p align="center">
   <img width="50%" height="50%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot002.png">
 </p>
-once in extensions enable developer mode (in the right corner):
+once in extensions enable developer mode (right top corner):
 <p align="center">
   <img width="25%" height="25%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot005.png">
 </p>
-Now load the unpacked extention:
+Now load the unpacked extention (left top corner):
 <p align="center">
   <img width="40%" height="40%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot003.png">
 </p>
-Select the folder:
+Select the folder where you extracted the zip file:
 <p align="center">
   <img width="80%" height="80%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot004.png">
 </p>
