@@ -10,7 +10,7 @@ If you're looking for the best way to improve your narrow.one experience, Better
 Once downloaded extract it to a safe folder.
 An example of how it should look like:
 <p align="center">
-  <img width="448" height="268" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot001.png">
+  <img width="483" height="229" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot001.png">
 </p>
 open chrome/brave (or whatever you use)
 click on the three dots then go to extensions, see example:
