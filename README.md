@@ -10,7 +10,9 @@ If you're looking for the best way to improve your narrow.one experience, Better
 ## How to install?
 Once downloaded extract it to a safe folder.
 ### An example of how it should look like:
-<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/screen001.png">
+<p align="center">
+  <img width="448" height="268" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/screen001.png">
+</p>
 open chrome/brave (or whatever you use)
 click on the three dots then go to extensions
 once in extensions unpack the extracted source
