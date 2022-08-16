@@ -36,4 +36,4 @@ And you're done! Enjoy!
 ### If the optimization doesn't start, refresh the page with fn5. Otherwise it means that Narrow One has been updated.
 
 ## Discord Server
-https://discord.gg/mfJBTJR9gt
+### https://discord.gg/mfJBTJR9gt
