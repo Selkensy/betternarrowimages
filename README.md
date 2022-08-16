@@ -12,7 +12,7 @@ Once downloaded extract it to a safe folder. An example of how it should look li
   <img width="483" height="229" style="margin: 10px;" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot001.png">
 </p>
 open chrome/brave (or whatever you use) click on the three dots then go to extensions, see example:
-<br>
+</br>
 <p align="center">
   <img width="535" height="513" style="margin: 10px;" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot002.png">
 </p>
