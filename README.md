@@ -9,13 +9,31 @@ If you're looking for the best way to improve your narrow.one experience, Better
 ## How to install?
 Once downloaded extract it to a safe folder. An example of how it should look like:
 <p align="center">
-  <img width="483" height="229" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot001.png">
+  <img width="50%" height="50%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot001.png">
 </p>
 open chrome/brave (or whatever you use) click on the three dots then go to extensions, see example:
 <p align="center">
-  <img width="535" height="513" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot002.png">
+  <img width="50%" height="50%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot002.png">
 </p>
-once in extensions unpack the extracted source
+once in extensions enable developer mode (in the right corner):
+<p align="center">
+  <img width="25%" height="25%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot005.png">
+</p>
+Now load the unpacked extention:
+<p align="center">
+  <img width="40%" height="40%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot003.png">
+</p>
+Select the folder:
+<p align="center">
+  <img width="80%" height="80%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot004.png">
+</p>
+And you're done! Enjoy!
+
+## Usage
+### Just open https://narrow.one/ . Betternarrow should start automatically.
+
+## Common Issues
+### If the optimization doesn't start, refresh the page with fn5. Otherwise it means that Narrow One has been updated.
 
 ## Discord Server
 https://discord.gg/mfJBTJR9gt
