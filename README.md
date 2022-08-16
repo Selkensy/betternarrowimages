@@ -7,13 +7,11 @@ If you're looking for the best way to improve your narrow.one experience, Better
 ## Download: [betternarrow-main.zip](https://github.com/Laamy/betternarrow/archive/refs/heads/main.zip)
 
 ## How to install?
-Once downloaded extract it to a safe folder.
-An example of how it should look like:
+### Once downloaded extract it to a safe folder. An example of how it should look like:
 <p align="center">
   <img width="483" height="229" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot001.png">
 </p>
-open chrome/brave (or whatever you use)
-click on the three dots then go to extensions, see example:
+### open chrome/brave (or whatever you use) click on the three dots then go to extensions, see example:
 <p align="center">
   <img width="535" height="513" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot002.png">
 </p>
