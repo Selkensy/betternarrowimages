@@ -9,11 +9,9 @@ If you're looking for the best way to improve your narrow.one experience, Better
 ## How to install?
 
 Once downloaded extract it:
-<p align="left">
-  <img width="50%" height="50%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/Screenshot001.png">
-</p>
-<p align="right">
-  <img width="50%" height="50%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/Screenshot002.png">
+<p float="left">
+  <img width="49%" height="49%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/Screenshot001.png">
+  <img width="49%" height="49%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/Screenshot002.png">
 </p>
 once extracted, double-click "RUN-SETUP"
 <p align="center">
