@@ -8,45 +8,29 @@ If you're looking for the best way to improve your narrow.one experience, Better
 
 ## How to install?
 
-Once downloaded extract it:
+<h3>Once downloaded extract it:</h3>
 <p align="center">
   <img width="100%" height="100%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/Screenshot000.png">
 </p>
-once extracted, double-click "RUN-SETUP"
+<h3>once extracted, double-click "RUN-SETUP"</h3>
 <p align="center">
   <img width="70%" height="70%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/Screenshot003.png">
 </p>
-A "SETUP COMPLETED" screen will appear, you can close it.
+<h3>A "SETUP COMPLETED" screen will appear, you can close it. And you're done! Enjoy!</h3>
 <p align="center">
   <img width="100%" height="100%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/Screenshot004.png">
 </p>
-And you're done! Enjoy!
 
-## Manual installation:
-Once downloaded extract it to a safe folder. An example of how it should look like:
+## Check if it is installed:
 <p align="center">
-  <img width="50%" height="50%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/OLD/Screenshot001.png">
+  <img width="80%" height="80%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/Screenshot005.png">
 </p>
-open chrome/brave (or whatever you use) click on the three dots then go to extensions, see example:
-<p align="center">
-  <img width="50%" height="50%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/OLD/Screenshot002.png">
-</p>
-once in extensions enable developer mode (right top corner):
-<p align="center">
-  <img width="25%" height="25%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/OLD/Screenshot005.png">
-</p>
-Now load the unpacked extention (left top corner):
-<p align="center">
-  <img width="40%" height="40%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/OLD/Screenshot003.png">
-</p>
-Select the folder where you extracted the zip file:
-<p align="center">
-  <img width="80%" height="80%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/OLD/Screenshot004.png">
-</p>
-And you're done! Enjoy!
 
 ## Usage
 ### Just open https://narrow.one/ . Betternarrow should start automatically.
+<p align="center">
+  <img width="80%" height="80%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/Screenshot006.png">
+</p>
 
 ## Common Issues
 ### If the optimization doesn't start, refresh the page with fn5. Otherwise it means that Narrow One has been updated.
