@@ -7,25 +7,44 @@ If you're looking for the best way to improve your narrow.one experience, Better
 ## Download: [betternarrow-main.zip](https://github.com/Laamy/betternarrow/archive/refs/heads/main.zip)
 
 ## How to install?
+
+Once downloaded extract it:
+<p align="left">
+  <img width="50%" height="50%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/Screenshot001.png">
+</p>
+<p align="right">
+  <img width="50%" height="50%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/Screenshot002.png">
+</p>
+once extracted, double-click "RUN-SETUP"
+<p align="center">
+  <img width="25%" height="25%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/Screenshot003.png">
+</p>
+A "SETUP COMPLETED" screen will appear, you can close it.
+<p align="center">
+  <img width="40%" height="40%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/Screenshot004.png">
+</p>
+And you're done! Enjoy!
+
+## Manual installation:
 Once downloaded extract it to a safe folder. An example of how it should look like:
 <p align="center">
-  <img width="50%" height="50%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot001.png">
+  <img width="50%" height="50%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/OLD/Screenshot001.png">
 </p>
 open chrome/brave (or whatever you use) click on the three dots then go to extensions, see example:
 <p align="center">
-  <img width="50%" height="50%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot002.png">
+  <img width="50%" height="50%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/OLD/Screenshot002.png">
 </p>
 once in extensions enable developer mode (right top corner):
 <p align="center">
-  <img width="25%" height="25%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot005.png">
+  <img width="25%" height="25%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/OLD/Screenshot005.png">
 </p>
 Now load the unpacked extention (left top corner):
 <p align="center">
-  <img width="40%" height="40%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot003.png">
+  <img width="40%" height="40%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/OLD/Screenshot003.png">
 </p>
 Select the folder where you extracted the zip file:
 <p align="center">
-  <img width="80%" height="80%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/Screenshot004.png">
+  <img width="80%" height="80%" src="https://raw.githubusercontent.com/Selkensy/betternarrowimages/master/betternarrow/OLD/Screenshot004.png">
 </p>
 And you're done! Enjoy!
 
